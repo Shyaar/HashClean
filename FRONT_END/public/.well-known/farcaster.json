@@ -1,0 +1,35 @@
+{
+  "frame": {
+    "name": "Novana",
+    "version": "1",
+    "iconUrl": "https://novana-sage.vercel.app/icon.png",
+    "homeUrl": "https://novana-sage.vercel.app",
+    "imageUrl": "https://novana-sage.vercel.app/logo.png",
+    "buttonTitle": "Launch Novana",
+    "splashImageUrl": "https://novana-sage.vercel.app/logo.png",
+    "splashBackgroundColor": "#ffffff",
+    "webhookUrl": "https://novana-sage.vercel.app/api/webhook",
+    "subtitle": "peer support",
+    "description": "A Decentralized, privacy-focused peer-support mini-app for mental health. Join safe, stigma-free communities to connect, share, and support each other anonymously.",
+    "primaryCategory": "health-fitness",
+    "tags": [
+      "mental-health",
+      "peer-support",
+      "community",
+      "privacy",
+      "wellness"
+    ],
+    "tagline": "Safe peer support",
+    "ogTitle": "Novana – Private Peer Support",
+    "ogImageUrl": "https://novana-sage.vercel.app/logo.png",
+    "ogDescription": "Safe, private peer support for mental wellness in decentralized, stigma-free communities.",
+    "castShareUrl": "https://novana-sage.vercel.app/"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzNTA3MzQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhkNDdjNTEzNTE0NTQ1NTNFMTViNmZlOGZBYUFCMUZlOTFkMEMzZjBjIn0",
+    "payload": "eyJkb21haW4iOiJub3ZhbmEtc2FnZS52ZXJjZWwuYXBwIn0",
+    "signature": "k0k//tkJ1BfCFCjy4UwxCseGKqXGnHWItA3LchsIPbwoEOlX1l9/pjNCh1icZTczk8Uva3JPuJFrV5oChF4yxBs="
+  }
+
+  
+}
