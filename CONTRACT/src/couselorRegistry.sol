@@ -48,6 +48,8 @@ contract CounselorRegistry is Ownable {
             registrationNumber: _registrationNumber
         });
 
+        counselorsbyId[nextCounselorId] = counselors[msg.sender];
+
         isCounselor[msg.sender] = true;
 
         counselorIds.push(nextCounselorId);
